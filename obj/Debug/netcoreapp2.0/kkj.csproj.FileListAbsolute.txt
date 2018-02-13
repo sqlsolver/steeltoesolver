@@ -1,0 +1,10 @@
+/var/www/kkj/bin/Debug/netcoreapp2.0/kkj.deps.json
+/var/www/kkj/bin/Debug/netcoreapp2.0/kkj.runtimeconfig.json
+/var/www/kkj/bin/Debug/netcoreapp2.0/kkj.runtimeconfig.dev.json
+/var/www/kkj/bin/Debug/netcoreapp2.0/kkj.dll
+/var/www/kkj/bin/Debug/netcoreapp2.0/kkj.pdb
+/var/www/kkj/obj/Debug/netcoreapp2.0/kkj.csproj.CoreCompileInputs.cache
+/var/www/kkj/obj/Debug/netcoreapp2.0/kkj.AssemblyInfoInputs.cache
+/var/www/kkj/obj/Debug/netcoreapp2.0/kkj.AssemblyInfo.cs
+/var/www/kkj/obj/Debug/netcoreapp2.0/kkj.dll
+/var/www/kkj/obj/Debug/netcoreapp2.0/kkj.pdb
