@@ -37,6 +37,8 @@ namespace kkj
             }
 
             app.UseStaticFiles();
+	    
+	    app.UseAuthentication();
 
             app.UseMvc(routes =>
             {

@@ -1,0 +1,13 @@
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/libhostpolicy.so
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/libhostfxr.so
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/kkj
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/kkj.deps.json
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/kkj.runtimeconfig.json
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/kkj.runtimeconfig.dev.json
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/kkj.dll
+/var/www/kkj/bin/Release/netcoreapp2.0/centos.7-x64/kkj.pdb
+/var/www/kkj/obj/Release/netcoreapp2.0/centos.7-x64/kkj.csproj.CoreCompileInputs.cache
+/var/www/kkj/obj/Release/netcoreapp2.0/centos.7-x64/kkj.AssemblyInfoInputs.cache
+/var/www/kkj/obj/Release/netcoreapp2.0/centos.7-x64/kkj.AssemblyInfo.cs
+/var/www/kkj/obj/Release/netcoreapp2.0/centos.7-x64/kkj.dll
+/var/www/kkj/obj/Release/netcoreapp2.0/centos.7-x64/kkj.pdb

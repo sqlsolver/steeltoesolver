@@ -17,14 +17,14 @@ namespace kkj.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = ".Net Core 2.0 MVC sample application, deployed to Azure using Pivotal Cloud Foundry.";
+            ViewData["Message"] = ".Net Core 2.0 MVC application for deployments to Apache as SteeltoeSolver.com and to Azure using Pivotal Cloud Foundry.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "RamonaM@Magenic.com";
+            ViewData["Message"] = "Ramona.Maxwell@SolverInc.com";
 
             return View();
         }
