@@ -16,6 +16,14 @@
     line-height: 1.4;
 }
 
+.slide {
+    background-color: #ff7926;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+}
+
 /* Make .svg files in the carousel display properly in older browsers */
 .carousel-inner .item img[src$=".svg"] {
     width: 100%;
